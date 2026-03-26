@@ -1,6 +1,6 @@
 [
 {"file":"map_cities.json"},
-{"file":"map_cancellation_reason.json"},
+{"file":"map_cancellation_reasons.json"},
 {"file":"bulk_rides.json"},
 {"file":"map_payment_methods.json"},
 {"file":"map_ride_statuses.json"},
